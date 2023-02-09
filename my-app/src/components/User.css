@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    width: 850px;
+    justify-content: space-between;
+    margin: 5px;
+    margin-left: 20%;
+    padding: 20px;
+}
+
+.list b{
+    color: darkred;
+    font-weight: bold;
+}
